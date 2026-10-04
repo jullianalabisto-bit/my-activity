@@ -1,0 +1,28 @@
+h1 {
+    color: blueviolet;
+    font-size: 50px;
+}
+
+h2 {
+    color: blueviolet;
+    font-size: 36px;
+}
+
+.box p.done {
+    color: red;
+    font-size: 24px;
+}
+
+.list li {
+    color: blue;
+    font-size: 24px;
+}
+
+.list li.done {
+    color: green;
+}
+
+ul p.done {
+    color: black;
+    font-size: 12px;
+}
